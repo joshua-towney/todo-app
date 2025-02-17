@@ -1,2 +1,2 @@
 # todo-app
-TODO app made using Kotlins vanilla library
+TODO app made using Kotlins vanilla librarys
